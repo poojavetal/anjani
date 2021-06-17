@@ -1,0 +1,61 @@
+.enquiry_line {
+	border: 1px solid #ffffff;
+}
+
+
+.enquiry_box_line {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #645e5e;
+	text-decoration: none;
+	background-color: #ffffff;
+	border: 1px solid #CCC;
+	height: 20px;
+	width: 240px;
+}
+
+
+.enquiry_box_line2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #484848;
+	text-decoration: none;
+	background-color: #ffffff;
+	border: 1px solid #CCC;
+	height: 20px;
+	width: 210px;
+}
+
+.enquiry_box_line1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #484848;
+	text-decoration: none;
+	background-color: #ffffff;
+	border: 1px solid #CCC;
+	height: 20px;
+	width: 32px;
+}
+
+.enquiry_box_line3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	
+	text-decoration: none;
+	background-color: #ffffff;
+	border: 1px solid #CCC;
+	height: 50px;
+	width: 240px;
+	max-width: 240px;
+	max-height: 80px;
+}
+
+
+.enquiry_box_text {
+	font-family: Arial, Helvetica, sans-serif; font-size: 12px; color:#000000;
+	
+}
